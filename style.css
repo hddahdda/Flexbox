@@ -1,0 +1,24 @@
+.container {
+background-color: white;
+flex-direction: column;
+width: 37rem;
+height: 18rem;
+}
+
+.dot {
+    background-color: red;
+    display: flex;
+    width: 10rem;
+    height: 10rem;
+    border-radius: 50%;
+    margin: auto;
+    margin-top: 10%
+    
+}
+body{
+    background-color: gray;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 20rem;
+}
